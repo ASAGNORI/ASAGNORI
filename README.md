@@ -1,6 +1,5 @@
 ## Hi/Olá ! I'm Angëlo Sagnori
 
-## 
 My Mission: Create value through technology to improve the world, people, and processes—driving innovation and efficiency through data.
 
 SAP Data & Analytics specialist with over 13 years of experience, leading implementation, optimization, and support projects for companies across various industries. Expertise in SAP BW, Datasphere, SAP Analytics Cloud (SAC), HANA, and Google Cloud, focusing on data architecture, modeling, and integrations to support strategic decision-making.
