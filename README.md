@@ -1,6 +1,6 @@
-## Hi/Olá ! I'm / Eu sou Angëlo Sagnori
+## Hi/Olá ! I'm Angëlo Sagnori
 
-English Version:
+## English Version:
 My Mission: Create value through technology to improve the world, people, and processes—driving innovation and efficiency through data.
 
 SAP Data & Analytics specialist with over 13 years of experience, leading implementation, optimization, and support projects for companies across various industries. Expertise in SAP BW, Datasphere, SAP Analytics Cloud (SAC), HANA, and Google Cloud, focusing on data architecture, modeling, and integrations to support strategic decision-making.
@@ -12,7 +12,7 @@ SAP Data & Analytics specialist with over 13 years of experience, leading implem
 
 🏆 Certifications: SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H) & SAP Certified Associate – Data Analyst - SAP Analytics Cloud (C_SAC)) & Google Cloud Data Analytics (Cloud Data Analysis Program)
 
-Portuguese Version:
+## Portuguese Version:
 Minha Missão: Criar valor por meio da tecnologia para melhorar o mundo, as pessoas e os processos—impulsionando inovação e eficiência com dados.
 
 Especialista em SAP Data & Analytics com mais de 13 anos de experiência, liderando projetos de implementação, otimização e suporte para empresas de diversos setores. Expertise em SAP BW, Datasphere, SAP Analytics Cloud (SAC), HANA e Google Cloud, com foco em arquitetura de dados, modelagem e integrações para apoiar a tomada de decisão estratégica.
