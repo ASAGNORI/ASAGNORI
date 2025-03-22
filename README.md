@@ -1,23 +1,27 @@
 ## Hi/Olá ! I'm Angëlo Sagnori
 
-My Mission: Create value through technology to improve the world, people, and processes—driving innovation and efficiency through data.
+Mission: Create value through technology to improve the world, people, and processes, driving innovation and efficiency with data 
 
-SAP Data & Analytics specialist with over 13 years of experience, leading implementation, optimization, and support projects for companies across various industries. Expertise in SAP BW, Datasphere, SAP Analytics Cloud (SAC), HANA, and Google Cloud, focusing on data architecture, modeling, and integrations to support strategic decision-making.
+SAP Data & Analytics specialist since 2011, working on implementation, optimization, and support projects for companies across various industries. Expertise in SAP Datasphere, SAP Analytics Cloud (SAC), HANA and Google Cloud, focusing on data architecture, modeling, and integrations to support strategic decision-making and digital transformation.
 
 ✅ Business Impact: Enhanced decision-making efficiency for strategic clients through new implementations and digital transformation.
 
-✅ Methodologies & Best Practices: Applying SAP best practices and methodologies such as SAP Activate, ASAP, and agile frameworks like Kanban.
+✅ Methodologies & Best Practices: Applying best practices and methodologies such as SAP Activate, ASAP, and agile frameworks like Kanban.
 
-✅ SAP & Cloud Specialist: SAP BTP (Business Data Cloud, Analytics Cloud, and Datasphere), ABAP, SQL, and Google Cloud solutions (BigQuery, Dataflow, Looker).
+✅ SAP & Cloud Expertise: SAP BTP (Business Data Cloud, Analytics Cloud, and Datasphere), ABAP, SQL, and Google Cloud solutions (BigQuery, Dataflow, Looker).
 
-✅ Passionate About Emerging Technologies: Exploring Generative AI and cutting-edge technologies to drive business intelligence and automation.
+✅ Passionate About Emerging Technologies: Exploring Generative AI and Agents, leveraging cutting-edge technologies to drive business intelligence and automation.
 
-🏆 Certifications: SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H) & SAP Certified Associate – Data Analyst - SAP Analytics Cloud (C_SAC)) & Google Cloud Data Analytics (Cloud Data Analysis Program)
+🏆 Certifications:
+
+✔ Google Cloud Data Analytics (Cloud Data Analysis Program)
+✔ SAP Certified Associate – Data Analyst - SAP Analytics Cloud (C_SAC) 
+✔ SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H)
 
 ## 
-Minha Missão: Criar valor por meio da tecnologia para melhorar o mundo, as pessoas e os processos—impulsionando inovação e eficiência com dados.
+Missão: Criar valor por meio da tecnologia para melhorar o mundo, as pessoas e os processos, impulsionando inovação e eficiência com dados
 
-Especialista em SAP Data & Analytics com mais de 13 anos de experiência, liderando projetos de implementação, otimização e suporte para empresas de diversos setores. Expertise em SAP BW, Datasphere, SAP Analytics Cloud (SAC), HANA e Google Cloud, com foco em arquitetura de dados, modelagem e integrações para apoiar a tomada de decisão estratégica.
+Especialista em SAP Data & Analytics desde 2011, atuando em projetos de implementação, otimização e suporte para empresas de diversos setores. Expertise em SAP Datasphere, SAP Analytics Cloud (SAC), HANA e Google Cloud, com foco em arquitetura de dados, modelagem e integrações para apoiar a tomada de decisão estratégica e transformação digital
 
 ✅ Impacto em Negócios: Maior eficiência na tomada de decisões em clientes estratégicos com novas implementações e transformação digital.
 
@@ -25,9 +29,13 @@ Especialista em SAP Data & Analytics com mais de 13 anos de experiência, lidera
 
 ✅ Especialista em SAP e Cloud: SAP BTP (Business Data Cloud, Analytics Cloud e Datasphere), ABAP, SQL e soluções Google Cloud (BigQuery, Dataflow, Looker).
 
-✅ Apaixonado por Novas Tecnologias: Explorando IA Generativa e tecnologias emergentes para impulsionar inteligência de negócios e automação.
+✅ Apaixonado por Novas Tecnologias: Explorando IA Generativa e Agentes, tecnologias emergentes para impulsionar inteligência de negócios e automação.
 
-🏆 Certificações: SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H) e SAP Certified Associate – Data Analyst - SAP Analytics Cloud (C_SAC)) & Google Cloud Data Analytics (Cloud Data Analysis Program)
+🏆 Certificações: 
+
+✔ Google Cloud Data Analytics (Cloud Data Analysis Program)
+✔ SAP Certified Associate – Data Analyst - SAP Analytics Cloud (C_SAC) 
+✔ SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H)
 
 <!--
 **ASAGNORI/ASAGNORI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
