@@ -1,8 +1,10 @@
 ## Hi/Olá ! I'm Angëlo Sagnori
 
-Mission: Create value through technology to improve the world, people, and processes, driving innovation and efficiency with data 
+My mission is to transform data into a competitive advantage by delivering SAP Data & Analytics and Artificial Intelligence solutions that foster innovation and intelligent automation to improve the world, people, and processes—driving innovation and efficiency through data.
 
-SAP Data & Analytics specialist since 2011, working on implementation, optimization, and support projects for companies across various industries. Expertise in SAP Datasphere, SAP Analytics Cloud (SAC), HANA and Google Cloud, focusing on data architecture, modeling, and integrations to support strategic decision-making and digital transformation.
+As a specialist in SAP Data & Analytics since 2011, with expertise in SAP Datasphere, SAP Analytics Cloud (SAC), HANA, and Google Cloud, I work on implementation, optimization, and support projects for companies across various sectors.
+
+Focused on data architecture, modeling, and integrations to support strategic decision-making and digital transformation, I utilize a best-practice approach to design and implement SAP and Cloud solutions that efficiently integrate data, delivering strategic insights while leveraging Artificial Intelligence, GenAI, agents, and intelligent automation.
 
 ✅ Business Impact: Enhanced decision-making efficiency for strategic clients through new implementations and digital transformation.
 
@@ -19,9 +21,11 @@ SAP Data & Analytics specialist since 2011, working on implementation, optimizat
 ✔ SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H)
 
 ## 
-Missão: Criar valor por meio da tecnologia para melhorar o mundo, as pessoas e os processos, impulsionando inovação e eficiência com dados
+Minha missão é transformar dados em vantagem competitiva e, oferecer soluções SAP Data & Analytic e de Inteligência Artificial que promovam inovação e automação inteligente para melhorar o mundo, as pessoas e os processos, impulsionando inovação e eficiência com dados.
 
-Especialista em SAP Data & Analytics desde 2011, atuando em projetos de implementação, otimização e suporte para empresas de diversos setores. Expertise em SAP Datasphere, SAP Analytics Cloud (SAC), HANA e Google Cloud, com foco em arquitetura de dados, modelagem e integrações para apoiar a tomada de decisão estratégica e transformação digital
+Especialista em SAP Data & Analytics desde 2011, com expertise em SAP Datasphere, SAP Analytics Cloud (SAC), HANA e Google Cloud, atuo em projetos de implementação, otimização e suporte para empresas de diversos setores. 
+
+Focado em arquitetura de dados, modelagem e integrações para apoiar a tomada de decisão estratégica e a transformação digital, utilizo uma abordagem centrada em melhores práticas para projetar e implementar soluções SAP e Cloud que integram dados de forma eficiente, proporcionando insights estratégicos e aliando inteligência artificial, GenAI, Agentes e automações inteligentes.
 
 ✅ Impacto em Negócios: Maior eficiência na tomada de decisões em clientes estratégicos com novas implementações e transformação digital.
 
