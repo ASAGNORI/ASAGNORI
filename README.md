@@ -1,5 +1,7 @@
 ## Hi/Olá ! I'm Angëlo Sagnori
 
+Companies often face challenges in data integration and digital transformation, compromising strategic decision-making.
+
 My mission is to transform data into a competitive advantage by delivering SAP Data & Analytics and Artificial Intelligence solutions that foster innovation and intelligent automation to improve the world, people, and processes—driving innovation and efficiency through data.
 
 As a specialist in SAP Data & Analytics since 2011, with expertise in SAP Datasphere, SAP Analytics Cloud (SAC), HANA, and Google Cloud, I work on implementation, optimization, and support projects for companies across various sectors.
@@ -21,6 +23,8 @@ Focused on data architecture, modeling, and integrations to support strategic de
 ✔ SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H)
 
 ## 
+Empresas frequentemente enfrentam desafios na integração de dados e na transformação digital, comprometendo a tomada de decisão.
+
 Minha missão é transformar dados em vantagem competitiva e, oferecer soluções SAP Data & Analytic e de Inteligência Artificial que promovam inovação e automação inteligente para melhorar o mundo, as pessoas e os processos, impulsionando inovação e eficiência com dados.
 
 Especialista em SAP Data & Analytics desde 2011, com expertise em SAP Datasphere, SAP Analytics Cloud (SAC), HANA e Google Cloud, atuo em projetos de implementação, otimização e suporte para empresas de diversos setores. 
