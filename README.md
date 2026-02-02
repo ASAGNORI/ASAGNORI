@@ -4,7 +4,7 @@ Companies often face challenges in data integration and digital transformation, 
 
 My mission is to transform data into a competitive advantage by delivering SAP Data & Analytics and Artificial Intelligence solutions that foster innovation and intelligent automation to improve the world, people, and processes—driving innovation and efficiency through data.
 
-As a specialist in SAP Data & Analytics since 2011, with expertise in SAP Datasphere, SAP Analytics Cloud (SAC), HANA, and Google Cloud, I work on implementation, optimization, and support projects for companies across various sectors.
+As a specialist in SAP Data & Analytics since 2011, with expertise in SAP Business Data Cloud (BDC), SAP Datasphere, SAP Analytics Cloud (SAC), BW/4HANA, and Google Cloud, I work on implementation, optimization, and support projects for companies across various sectors.
 
 Focused on data architecture, modeling, and integrations to support strategic decision-making and digital transformation, I utilize a best-practice approach to design and implement SAP and Cloud solutions that efficiently integrate data, delivering strategic insights while leveraging Artificial Intelligence, GenAI, agents, and intelligent automation.
 
@@ -18,16 +18,17 @@ Focused on data architecture, modeling, and integrations to support strategic de
 
 🏆 Certifications:
 
+✔ SAP Certified - Business Data Cloud (C_BCBDC)
+✔ SAP Certified - Data Analyst - SAP Analytics Cloud (C_SAC)
+✔ SAP Certified - Data Engineer - SAP BW/4HANA (C _BW4HANA)
 ✔ Google Cloud Data Analytics (Cloud Data Analysis Program)
-✔ SAP Certified Associate – Data Analyst - SAP Analytics Cloud (C_SAC) 
-✔ SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H)
 
 ## 
 Empresas frequentemente enfrentam desafios na integração de dados e na transformação digital, comprometendo a tomada de decisão.
 
 Minha missão é transformar dados em vantagem competitiva e, oferecer soluções SAP Data & Analytic e de Inteligência Artificial que promovam inovação e automação inteligente para melhorar o mundo, as pessoas e os processos, impulsionando inovação e eficiência com dados.
 
-Especialista em SAP Data & Analytics desde 2011, com expertise em SAP Datasphere, SAP Analytics Cloud (SAC), HANA e Google Cloud, atuo em projetos de implementação, otimização e suporte para empresas de diversos setores. 
+Especialista em SAP Data & Analytics desde 2011, com expertise em SAP Business Data Cloud (BDC), SAP Datasphere, SAP Analytics Cloud (SAC), BW/4HANA e Google Cloud, atuo em projetos de implementação, otimização e suporte para empresas de diversos setores. 
 
 Focado em arquitetura de dados, modelagem e integrações para apoiar a tomada de decisão estratégica e a transformação digital, utilizo uma abordagem centrada em melhores práticas para projetar e implementar soluções SAP e Cloud que integram dados de forma eficiente, proporcionando insights estratégicos e aliando inteligência artificial, GenAI, Agentes e automações inteligentes.
 
@@ -41,9 +42,10 @@ Focado em arquitetura de dados, modelagem e integrações para apoiar a tomada d
 
 🏆 Certificações: 
 
+✔ SAP Certified - Business Data Cloud (C_BCBDC)
+✔ SAP Certified - Data Analyst - SAP Analytics Cloud (C_SAC)
+✔ SAP Certified - Data Engineer - SAP BW/4HANA (C _BW4HANA)
 ✔ Google Cloud Data Analytics (Cloud Data Analysis Program)
-✔ SAP Certified Associate – Data Analyst - SAP Analytics Cloud (C_SAC) 
-✔ SAP (SAP Certified Associate – Data Engineer - Data Fabric (C_BW4H)
 
 <!--
 **ASAGNORI/ASAGNORI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
